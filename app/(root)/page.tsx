@@ -4,7 +4,7 @@ import { TrendingUp, LineChart, Shield, Zap, ArrowRight, BarChart3, Brain, Targe
 
 export default function HomePage() {
   return (
-    <div className="flex flex-col min-h-screen bg-gray-950">
+    <div className="flex flex-col min-h-screen">
       {/* Hero Section */}
       <section className="relative overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-br from-yellow-500/10 via-transparent to-transparent" />
